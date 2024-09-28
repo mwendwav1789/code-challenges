@@ -58,3 +58,9 @@ To setup this project locally(on your device)
       cd/your-repository-name
    ```
 3. Open the JavaScript files (studentgradegenerator.js) and (speeddetector.js) in your text editor.
+
+## Usage (How someone will be able to run the code)
+1. Open the terminal.
+    - For the student grade generator(studentgradegenerator.js), open it and enter the marks, then you will see the corresponding grade.
+
+   
