@@ -50,7 +50,7 @@ For example, if the speed is 80, it should print: “Points: 2”. If the driver
 To setup this project locally(on your device)
 
 - Clone the repository using the following steps
-  1. ````bash````
-     - git clone https://github.com/mwendwav1789/code-challenges.git (HTTPS)
+  1. ```bash
      - git clone git@github.com:mwendwav1789/code-challenges.git (SSH)
+     ```
      
