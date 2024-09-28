@@ -51,10 +51,6 @@ To setup this project locally(on your device)
 
 1.  Clone the repository using the following steps
    ```bash
-     - git clone git@github.com:mwendwav1789/code-challenges.git (SSH)
+      git clone git@github.com:mwendwav1789/code-challenges.git (SSH)
      ```
-2.  Navigate to the project directory using
-   ```bash
-      cd/your-repository-name
-      ```
-3. Open the JavaScript files (studentgradegenerator.js and speeddetector.js
+
