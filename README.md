@@ -12,7 +12,7 @@ This repository contains JavaScript solutions for two CodeGrade Challenges
 3. Challenges: - Student Grade Generator - Speed Detector
 4. Installation and Setup
 5. Usage (How someone will be able to run the code)
-6. Licence
+6. License
 
 ## Project Description
 
@@ -68,6 +68,9 @@ To setup this project locally(on your device)
     - For the speed detector, run the script in order to get the corresponding feedback
       ```javaScript
       node speeddetector.js
-      ```        
+      ```
+
+## License
+This project is open-source code and available under the MIT license. 
 
    
