@@ -51,6 +51,6 @@ To setup this project locally(on your device)
 
 - Clone the repository using the following steps
   1. ````bash````
-     git clone https://github.com/mwendwav1789/code-challenges.git (HTTPS)
-     git clone git@github.com:mwendwav1789/code-challenges.git (SSH)
+     - git clone https://github.com/mwendwav1789/code-challenges.git (HTTPS)
+     - git clone git@github.com:mwendwav1789/code-challenges.git (SSH)
      
