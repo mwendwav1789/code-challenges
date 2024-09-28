@@ -61,9 +61,13 @@ To setup this project locally(on your device)
 
 ## Usage (How someone will be able to run the code)
 1. Open the terminal.
-    - For the student grade generator,open it and enter the marks, then you will see the corresponding grade.
+    - For the student grade generator, open it and enter the marks, then you will see the corresponding grade.
       ```javaScript
          node studentgradegenerator.js
       ```
+    - For the speed detector, run the script in order to get the corresponding feedback
+      ```javaScript
+      node speeddetector.js
+      ```        
 
    
